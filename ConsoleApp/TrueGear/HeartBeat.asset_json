@@ -1,1 +1,0 @@
-{"name":"HeartBeat","uuid":"HeartBeat","keep":"False","priority":0,"tracks":[{"start_time":0,"end_time":100,"stop_name":"","start_intensity":30,"end_intensity":5,"intensity_mode":"Const","action_type":"Shake","once":"False","interval":0,"index":[0,1,4,5]}]}
