@@ -6,6 +6,8 @@ There are two versions of this mod available:
 
 ### Option 1: TrueGear Official Version
 
+**base on:** [reframework](https://github.com/praydog/REFramework)  
+
 Click **OK** to start the installation
 ![](https://static.truegear.tech/GitImg/General/ok.png)
 
